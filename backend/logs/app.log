@@ -1,0 +1,111 @@
+2025-04-20T12:44:53.874Z - INFO: Initializing services...
+2025-04-20T12:44:53.876Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T12:44:53.877Z - INFO: Server running on port 5001 in development mode
+2025-04-20T12:44:53.877Z - WARN: Gmail service initialization failed: Token not found. Authentication required.
+2025-04-20T12:44:53.877Z - INFO: Gmail authentication will be required
+2025-04-20T12:44:53.878Z - ERROR: Shopify config file not found
+2025-04-20T12:44:53.878Z - ERROR: Error initializing Shopify service: Shopify config file not found
+2025-04-20T12:44:53.878Z - ERROR: Shopify service initialization failed: Shopify config file not found
+2025-04-20T12:44:53.878Z - INFO: Server initialization complete
+2025-04-20T12:49:01.420Z - INFO: Initializing services...
+2025-04-20T12:49:01.422Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T12:49:01.423Z - INFO: Server running on port 5001 in development mode
+2025-04-20T12:49:01.423Z - WARN: Gmail service initialization failed: Token not found. Authentication required.
+2025-04-20T12:49:01.424Z - INFO: Gmail authentication will be required
+2025-04-20T12:49:01.424Z - INFO: Shopify service initialized for shop: https://nm3gki-sa.myshopify.com
+2025-04-20T12:49:01.424Z - INFO: Shopify service initialized successfully
+2025-04-20T12:49:01.424Z - INFO: Server initialization complete
+2025-04-20T12:51:37.373Z - INFO: Initializing services...
+2025-04-20T12:51:37.375Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T12:51:37.376Z - INFO: Server running on port 5001 in development mode
+2025-04-20T12:51:37.376Z - WARN: Gmail service initialization failed: Token not found. Authentication required.
+2025-04-20T12:51:37.377Z - INFO: Gmail authentication will be required
+2025-04-20T12:51:37.377Z - INFO: Shopify service initialized for shop: https://nm3gki-sa.myshopify.com
+2025-04-20T12:51:37.377Z - INFO: Shopify service initialized successfully
+2025-04-20T12:51:37.377Z - INFO: Server initialization complete
+2025-04-20T12:51:49.728Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T12:51:49.729Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T12:51:49.733Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T12:51:49.733Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T12:51:50.789Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T12:51:50.791Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T12:51:50.855Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T12:51:50.856Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T17:45:41.221Z - INFO: Initializing services...
+2025-04-20T17:45:41.223Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T17:45:41.224Z - INFO: Server running on port 5001 in development mode
+2025-04-20T17:45:41.225Z - WARN: Gmail service initialization failed: Token not found. Authentication required.
+2025-04-20T17:45:41.225Z - INFO: Gmail authentication will be required
+2025-04-20T17:45:41.225Z - INFO: Shopify service initialized for shop: https://nm3gki-sa.myshopify.com
+2025-04-20T17:45:41.225Z - INFO: Shopify service initialized successfully
+2025-04-20T17:45:41.225Z - INFO: Server initialization complete
+2025-04-20T17:45:48.890Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T17:45:48.891Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T17:45:48.895Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T17:45:48.895Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T17:45:49.536Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T17:45:49.536Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T17:45:49.538Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T17:45:49.538Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:35:06.485Z - INFO: Initializing services...
+2025-04-20T18:35:06.487Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:35:06.488Z - INFO: Server running on port 5001 in development mode
+2025-04-20T18:35:06.488Z - WARN: Gmail service initialization failed: Token not found. Authentication required.
+2025-04-20T18:35:06.488Z - INFO: Gmail authentication will be required
+2025-04-20T18:35:06.489Z - INFO: Shopify service initialized for shop: https://nm3gki-sa.myshopify.com
+2025-04-20T18:35:06.489Z - INFO: Shopify service initialized successfully
+2025-04-20T18:35:06.489Z - INFO: Server initialization complete
+2025-04-20T18:35:13.518Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:35:13.520Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:35:13.525Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:35:13.525Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:35:14.257Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:35:14.260Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:35:14.276Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:35:14.279Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:36:13.785Z - INFO: Initializing services...
+2025-04-20T18:36:13.787Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:36:13.788Z - INFO: Server running on port 5001 in development mode
+2025-04-20T18:36:13.788Z - WARN: Gmail service initialization failed: Token not found. Authentication required.
+2025-04-20T18:36:13.789Z - INFO: Gmail authentication will be required
+2025-04-20T18:36:13.789Z - INFO: Shopify service initialized for shop: https://nm3gki-sa.myshopify.com
+2025-04-20T18:36:13.789Z - INFO: Shopify service initialized successfully
+2025-04-20T18:36:13.789Z - INFO: Server initialization complete
+2025-04-20T18:36:22.158Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:36:22.158Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:36:22.162Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:36:22.162Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:36:22.324Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:36:22.325Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:36:22.328Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:36:22.328Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:36:25.023Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:36:25.025Z - ERROR: Error getting Gmail auth URL: Token not found. Authentication required.
+2025-04-20T18:36:52.202Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:36:52.203Z - ERROR: Error getting Gmail auth URL: Token not found. Authentication required.
+2025-04-20T18:36:59.291Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:36:59.292Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:36:59.894Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:36:59.894Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:37:00.393Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:37:00.394Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:37:01.658Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:37:01.659Z - ERROR: Error getting Gmail auth URL: Token not found. Authentication required.
+2025-04-20T18:51:10.900Z - INFO: Initializing services...
+2025-04-20T18:51:10.902Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:51:10.903Z - INFO: Server running on port 5001 in development mode
+2025-04-20T18:51:10.903Z - WARN: Gmail service initialization failed: Token not found. Authentication required.
+2025-04-20T18:51:10.904Z - INFO: Gmail authentication will be required
+2025-04-20T18:51:10.904Z - INFO: Shopify service initialized for shop: https://nm3gki-sa.myshopify.com
+2025-04-20T18:51:10.904Z - INFO: Shopify service initialized successfully
+2025-04-20T18:51:10.904Z - INFO: Server initialization complete
+2025-04-20T18:51:18.254Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:51:18.260Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:51:18.275Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:51:18.275Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:51:19.334Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:51:19.336Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:51:19.341Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:51:19.341Z - ERROR: Error retrieving tracking emails: Token not found. Authentication required.
+2025-04-20T18:51:21.619Z - ERROR: Error initializing Gmail service: Token not found. Authentication required.
+2025-04-20T18:51:21.620Z - ERROR: Error getting Gmail auth URL: Token not found. Authentication required.
